@@ -1,7 +1,7 @@
 /*
  * Author: Ahmed Al-Hayali
  * Date of Completion: 19/02/2020
- * This program 
+ * This program calculates and displays the roundoff error of any number inputted by user.
  */
 package roundingerror;
 
